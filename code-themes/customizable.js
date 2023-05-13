@@ -1,3 +1,4 @@
+//Fork this and add it to your scratch mod or whatever, this is the scratch mod documentation after all, credit to garbomuffin
 module.exports = {
   plain: {
     color: "#d4d4d4",
